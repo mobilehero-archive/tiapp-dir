@@ -1,6 +1,6 @@
 {
 	"name": "tiapp-dir",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "Find the root directory of an appcelerator titanium project",
 	"homepage": "git://github.com/brentonhouse/tiapp-dir",
 	"bugs": {
@@ -22,7 +22,7 @@
 		"url": "git://github.com/brentonhouse/tiapp-dir.git"
 	},
 	"dependencies": {
-		"find-up": "^1.0.0"
+		"find-up": "^1.1.2"
 	},
 	"devDependencies": {
 		"grunt": "~0.4.5",
