@@ -1,6 +1,6 @@
 {
 	"name": "tiapp-dir",
-	"version": "0.0.4",
+	"version": "1.0.0",
 	"description": "Find the root directory of an appcelerator titanium project",
 	"homepage": "git://github.com/brentonhouse/tiapp-dir",
 	"bugs": {
