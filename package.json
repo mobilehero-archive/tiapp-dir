@@ -1,6 +1,6 @@
 {
 	"name": "tiapp-dir",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Find the root directory of an appcelerator titanium project",
 	"homepage": "git://github.com/brentonhouse/tiapp-dir",
 	"bugs": {
@@ -11,60 +11,48 @@
 	"author": {
 		"name": "Brenton House",
 		"email": "brenton.house@gmail.com",
-		"url": "https://github.com/brentonhouse"
+		"url": "https://brenton.house"
 	},
-	"main": "./lib/tiapp-dir.js",
-	"scripts": {
-		"test": "grunt test"
-	},
+	"main": "./tiapp-dir.js",
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/brentonhouse/tiapp-dir.git"
 	},
 	"dependencies": {
-		"find-up": "^1.1.2"
+		"find-up": "^3.0.0"
 	},
-	"devDependencies": {
-		"grunt": "~0.4.5",
-		"grunt-mocha-test": "~0.10.2",
-		"grunt-contrib-jshint": "~0.10.0",
-		"grunt-contrib-clean": "~0.5.0",
-		"grunt-jsbeautifier": "^0.2.10",
-		"istanbul": "~0.2.10",
-		"mocha": "~1.19.0",
-		"should": "~3.3.1"
-	},
+	"devDependencies": {},
 	"keywords": [
-    "appcelerator",
-    "titanium",
-    "mobilehero",
-    "tiapp",
-    "package",
-    "json",
-    "root",
-    "npm",
-    "entry",
-    "find",
-    "up",
-    "find-up",
-    "findup",
-    "look-up",
-    "look",
-    "file",
-    "search",
-    "match",
-    "package",
-    "resolve",
-    "parent",
-    "parents",
-    "folder",
-    "directory",
-    "dir",
-    "walk",
-    "walking",
-    "path"
-  ],
+		"appcelerator",
+		"titanium",
+		"mobilehero",
+		"tiapp",
+		"package",
+		"json",
+		"root",
+		"npm",
+		"entry",
+		"find",
+		"up",
+		"find-up",
+		"findup",
+		"look-up",
+		"look",
+		"file",
+		"search",
+		"match",
+		"package",
+		"resolve",
+		"parent",
+		"parents",
+		"folder",
+		"directory",
+		"dir",
+		"walk",
+		"walking",
+		"path"
+	],
 	"engines": {
-		"node": ">=0.10"
+		"node": ">=6"
 	}
 }

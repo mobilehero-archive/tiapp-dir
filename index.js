@@ -1,1 +1,1 @@
-module.exports = require('./lib/tiapp-dir');
+module.exports = require('./tiapp-dir');
