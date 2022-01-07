@@ -1,6 +1,6 @@
 {
 	"name": "tiapp-dir",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "⭐  Axway Amplify utility to find root directory of Appcelerator Titanium SDK project",
 	"homepage": "https://brenton.house/saying-goodbye-to-axway-amplify-titanium-31a44f3671de",
 	"bugs": {
